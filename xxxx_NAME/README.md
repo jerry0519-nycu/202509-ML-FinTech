@@ -42,7 +42,8 @@
 | 35    | 財金博1      | 414707001  | 林逸青 | Simon        |
 | 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
-| 38    |              | 114550807  | 馮克登 | Jannis       |
+| 38    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
