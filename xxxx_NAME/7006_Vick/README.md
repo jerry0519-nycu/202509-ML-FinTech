@@ -1,11 +1,13 @@
 # Self-Introduction
 
-[View My Profile Image on LinkedIn](https://www.linkedin.com/in/%E4%BF%8A%E8%B0%B7-%E9%99%B3-3602a2202)  
+Hello everyone, my name is **Chen Jun Gu (Vick)**.  
+I am currently a **Ph.D. student in the Department of Information Management and Finance** at **National Yang Ming Chiao Tung University (NYCU)**.  
+
+[My LinkedIn](https://www.linkedin.com/in/%E4%BF%8A%E8%B0%B7-%E9%99%B3-3602a2202)  
+
+<img width="220" height="240" alt="profile image" src="https://via.placeholder.com/220x240.png" />
 
 ---
-
-## About Me
-Hello everyone, my name is **Chen Jun Gu (Vick)**. I am currently a **Ph.D. student in the Department of Information Management and Finance** at **National Yang Ming Chiao Tung University (NYCU)**. I am passionate about continuous learning, research, and professional development. I enjoy exploring new knowledge and collaborating with peers to achieve meaningful goals.
 
 ## Academic Background
 - Ph.D. Program in Information Management and Finance, NYCU  
@@ -18,9 +20,8 @@ Hello everyone, my name is **Chen Jun Gu (Vick)**. I am currently a **Ph.D. stud
 - Programming and machine learning applications  
 
 ## Research Interests
-My main research interest is applying **AI methods to visualization analysis in trading**. I believe that combining AI with financial analytics can provide valuable insights for decision-making.  
-
-In addition, I am also open to exploring how **machine learning can be applied to other domains**, and I look forward to learning new perspectives from this course.  
+My main research interest is applying **AI methods to visualization analysis in trading**.  
+I am also eager to explore how **machine learning can be applied to other domains**, and I look forward to learning new perspectives from this course.  
 
 ## Goals
 - **Short-term goal**: Strengthen my expertise in AI and machine learning, and expand my knowledge of their applications in different fields.  
