@@ -19,13 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Lokia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:你的Email@example.com)  
-- [Portfolio / Blog](https://你的網站.com)  
+- [LinkedIn](www.linkedin.com/in/laichiulok)  
+- [Email](laichiulok@gmail.com)  
