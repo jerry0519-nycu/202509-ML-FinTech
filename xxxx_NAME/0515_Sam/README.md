@@ -20,3 +20,7 @@ Let’s connect if you’re building quant desks, launching crypto-arbitrage pro
 - Email: [1107supersam@gmail.com](1107supersam@gmail.com)
 - GitHub: [1107sammm](https://github.com/1107sammm)
 - Linkedin: [Young Siang Chang](https://linkedin.com/in/young-siang-chang-aa7b81350/)
+
+![selfie](https://github.com/user-attachments/assets/048eb817-d627-498e-a9d6-fcc19d920dcd)
+
+
