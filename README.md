@@ -1,2 +1,2 @@
 # README
-[last year github repo](https://github.com/HWTeng-Teaching/202409-ML-FinTech)
+[last year github repo: 202409-ML-FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech)
