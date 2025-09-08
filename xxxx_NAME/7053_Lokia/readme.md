@@ -1,6 +1,31 @@
-About Lokia
-Chrissy is a Global MBA student at NYCU with hands-on experience in data analysis and project management. Previously a project manager at an AI startup and a consultant at PwC, she aims to bridge the gap between technical and non-technical stakeholders through her data-driven mindset, strong communication, and management skills.
+# 👋 Hi, I’m Lokia  
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0c85da0b-c5f6-49fe-a4b7-5e8bd23868e6" />
+## 🌟 About Me  
+🎓 Master’s student at **NYCU IMF**  
+💼 A professional with a background in **Information Management, Data Analysis, Algorithmic Trading, and Financial Management**.  
 
- [[LinkedIn]](www.linkedin.com/in/laichiulok)
+- 🔧 Proficient in **Python Development, Machine Learning, and Quantitative Analysis**  
+- 📊 Skilled in **Advanced Excel Automation** for workflow optimization  
+- 🚀 Experienced in **Quantitative Trading** with hands-on applications in **real financial markets**  
+- 💡 Known for proactively developing **innovative systems** to automate analytical processes, significantly enhancing efficiency  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Programming:** `Python` | `SQL` | `Excel VBA`  
+- **Machine Learning:** `scikit-learn` | `pandas` | `NumPy` | `TensorFlow`  
+- **Finance & Trading:** Algorithmic Trading | Quantitative Analysis | Portfolio Management  
+- **Data Analytics:** Data Visualization | Business Intelligence | Process Automation  
+
+---
+
+## 📈 GitHub Stats  
+![Lokia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/)  
+- [Email](mailto:你的Email@example.com)  
+- [Portfolio / Blog](https://你的網站.com)  
