@@ -1,7 +1,9 @@
-I am Sherry Chang from GMBA department
-Before I joined in NYCU GMBA, 
+#I am Sherry Chang from GMBA department.
+
+#Before I joined in NYCU GMBA, 
 I have two previous page in Foxconn as sales representative 
 and in AUO display corporation as automotive project manager.
 
-My personal Linkedin: [linkedin](www.linkedin.com/in/sherry-chang8865)
-![Uploading image.png…]()
+#My personal Linkedin: [linkedin](www.linkedin.com/in/sherry-chang8865)
+<img width="493" height="407" alt="image" src="https://github.com/user-attachments/assets/321a214c-25b2-4afd-acb3-4475471d46e7" />
+
