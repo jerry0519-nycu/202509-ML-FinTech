@@ -7,6 +7,11 @@
 
 I am a student at National Yang Ming Chiao Tung University. 
 
-[My webpage link](https://samresume.wuaze.com)
 
-[My LinkedIn](https://linkedin.com/in/young-siang-chang-aa7b81350/)
+
+
+
+- Website : [My webpage link](https://samresume.wuaze.com)
+- Email: [1107supersam@gmail.com](1107supersam@gmail.com)
+- GitHub: [1107sammm](https://github.com/1107sammm)
+- Linkedin: [My LinkedIn](https://linkedin.com/in/young-siang-chang-aa7b81350/)
