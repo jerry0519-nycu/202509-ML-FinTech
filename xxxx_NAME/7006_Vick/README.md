@@ -30,4 +30,7 @@ I am also eager to explore how **machine learning can be applied to other domain
 ## Contact
 - 📞 Phone: 0963 332 959  
 - 📧 Email: junguchen.mg14@nycu.edu.tw  
-- 🔗 LinkedIn: [linkedin.com/in/俊谷-陳-3602a2202](https://www.linkedin.com/in/%E4%BF%8A%E8%B0%B7-%E9%99%B3-3602a2202)  
+- 🔗 LinkedIn: [linkedin.com/in/俊谷-陳-3602a2202](https://www.linkedin.com/in/%E4%BF%8A%E8%B0%B7-%E9%99%B3-3602a2202)
+
+## Acknowledgment
+*Part of the content in this self-introduction was generated with the assistance of **ChatGPT** to improve clarity and professional presentation.*
