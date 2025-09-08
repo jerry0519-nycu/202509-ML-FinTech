@@ -3,4 +3,4 @@ Chrissy is a Global MBA student at NYCU with hands-on experience in data analysi
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0c85da0b-c5f6-49fe-a4b7-5e8bd23868e6" />
 
-LinkedIn
+ [[LinkedIn]](www.linkedin.com/in/laichiulok)
