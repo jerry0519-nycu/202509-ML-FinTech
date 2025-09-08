@@ -1,6 +1,6 @@
 # Self-Introduction
 
-![Profile Image](profile-image.png)  
+[View My Profile Image on LinkedIn](https://www.linkedin.com/in/%E4%BF%8A%E8%B0%B7-%E9%99%B3-3602a2202)  
 
 ---
 
