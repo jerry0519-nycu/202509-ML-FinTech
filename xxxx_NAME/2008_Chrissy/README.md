@@ -5,4 +5,4 @@ Chrissy is a Global MBA student at NYCU with hands-on experience in data analysi
 <img width="219" height="330" alt="image" src="https://github.com/user-attachments/assets/bdd9e579-86a5-41ac-a837-19f96a53a967" />
 
 ---------------------------------------------------
-[linkedin](www.linkedin.com/in/chrissywangxiv/)
+[LinkedIn](https://www.linkedin.com/in/chrissywangxiv/)
