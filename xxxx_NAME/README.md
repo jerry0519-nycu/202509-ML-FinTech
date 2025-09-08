@@ -29,7 +29,7 @@
 | 22    | 企管學程1    | 313712024  | 陳寶瓊 | Katie        |
 | 23    | 企管學程2    | 313712025  | 武氏瓊簪 | Amber      |
 | 24    | 企管學程2    | 313712028  | 阮秋水 | Beth         |
-| 25    | 企管學程2    | 313712030  | 蘇偉峻 | Mensel[LinkedIn](www.linkedin.com/in/mensel-santoso)       |
+| 25    | 企管學程2    | 313712030  | 蘇偉峻 | Mensel [[LinkedIn]](www.linkedin.com/in/mensel-santoso)       |
 | 26    | 企管學程2    | 313712031  | 劉慧心 |              |
 | 27    | 建模所1      | 314653007  | 吳隆傑 | Jack         |
 | 28    | 統計碩1      | 314657018  | 陳葳芃 | Andy         |
