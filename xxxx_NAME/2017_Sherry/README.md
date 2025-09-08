@@ -1,4 +1,5 @@
 My personal Linkedin: [linkedin](www.linkedin.com/in/sherry-chang8865)
+
 I am Sherry Chang from GMBA department.
 
 Before I joined in NYCU GMBA, 
