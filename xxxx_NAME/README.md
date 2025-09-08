@@ -28,7 +28,7 @@
 | 21    | 企管學程2    | 313712020  | 唐艾梅 | Aye Mya [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BubpkXzmzSVGQ6OmHPcPyoQ%3D%3D]   |
 | 22    | 企管學程1    | 313712024  | 陳寶瓊 | Katie        |
 | 23    | 企管學程2    | 313712025  | 武氏瓊簪 | Amber      |
-| 24    | 企管學程2    | 313712028  | 阮秋水 | Beth         |
+| 24    | 企管學程2    | 313712028  | 阮秋水 | Beth   [http://linkedin.com/in/thuy-nguyen-bethany-218342289]      |
 | 25    | 企管學程2    | 313712030  | 蘇偉峻 | Mensel [[LinkedIn]](http://linkedin.com/in/mensel-santoso/)      |
 | 26    | 企管學程2    | 313712031  | 劉慧心 |              |
 | 27    | 建模所1      | 314653007  | 吳隆傑 | Jack         |
@@ -43,6 +43,7 @@
 | 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 38    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
