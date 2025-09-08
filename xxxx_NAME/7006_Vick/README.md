@@ -5,7 +5,7 @@ I am currently a **Ph.D. student in the Department of Information Management and
 
 [My LinkedIn](https://www.linkedin.com/in/%E4%BF%8A%E8%B0%B7-%E9%99%B3-3602a2202)  
 
-<img width="220" height="240" alt="profile image" src="https://via.placeholder.com/220x240.png" />
+<img width="788" height="789" alt="image" src="https://github.com/user-attachments/assets/56781362-c291-4dcf-8848-c9fe2974b0bb" />
 
 ---
 
