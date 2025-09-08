@@ -8,7 +8,7 @@ I am also a game and website developer：
 
 ## Information
 
-Website (best viewed on computer or laptop): [https://tokihato.com](https://tokihato.com)
-Email: [senba@tokihato.com](senba@tokihato.com)
-GitHub: [senba1000m3](https://github.com/senba1000m3)
-Linkedin: 浅香トキハ(https://www.linkedin.com/in/senba1000m3/)
+- Website (best viewed on computer or laptop): [https://tokihato.com](https://tokihato.com)
+- Email: [senba@tokihato.com](senba@tokihato.com)
+- GitHub: [senba1000m3](https://github.com/senba1000m3)
+- Linkedin: 浅香トキハ(https://www.linkedin.com/in/senba1000m3/)
