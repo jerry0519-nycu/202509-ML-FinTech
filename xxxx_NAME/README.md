@@ -21,7 +21,7 @@
 | 14    | 百川3        | 112950018  | 蔡承珉 | Senba        |
 | 15    | 資工系1D     | 114550072  | 劉祈賢 | Katherine    |
 | 16    | 財金碩2      | 311707051  | 余柔柔 | Mabel        |
-| 17    | 企管學程2    | 312712008  | 王惠芯 | Chrissy      |
+| 17    | 企管學程2    | 312712008  | 王惠芯 | Chrissy [[Linkedin]](https://www.linkedin.com/in/chrissywangxiv/)     |
 | 18    | 財金碩1      | 313707055  | 陳怡安 | Yian         |
 | 19    | 企管學程2    | 313712006  | 李昀蓁 | Joyce        |
 | 20    | 企管學程2    | 313712017  | 張芸瑄 | Sherry [[LinkedIn]](https://www.linkedin.com/in/sherry-chang8865/)   |
@@ -43,6 +43,7 @@
 | 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam          |
 | 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 38    |              | 114550807  | 馮克登 | Jannis       |
+
 
 
 
