@@ -34,7 +34,7 @@
 | 27    | 建模所1      | 314653007  | 吳隆傑 | Jack         |
 | 28    | 統計碩1      | 314657018  | 陳葳芃 | Andy         |
 | 29    | 財金碩1      | 314707006  | 陳之怡 | Claire       |
-| 30    | 財金碩1      | 314707007  | 曾柏齡 | Bernie       |
+| 30    | 財金碩1      | 314707007  | 曾柏齡 | Bernie [[LinkedIn]](https://www.linkedin.com/in/bernie-tseng-0b5561377/)       |
 | 31    | 財金碩1      | 314707026  | 廖承灝 | Bill         |
 | 32    | 財金碩1      | 314707053  | 黎昭樂 | Lokia    [[LinkedIn]](www.linkedin.com/in/laichiulok)    |
 | 33    | 企管學程1    | 314712007  | 蔡佩珊 |              |
@@ -43,6 +43,7 @@
 | 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 38    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
