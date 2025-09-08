@@ -1,4 +1,4 @@
-My personal Linkedin: [linkedin](www.linkedin.com/in/sherry-chang8865)
+My personal Linkedin: [linkedin](https://www.linkedin.com/in/sherry-chang8865/)
 
 
 I am Sherry Chang from GMBA department.
