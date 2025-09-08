@@ -8,5 +8,5 @@ I'm the second year GMBA student at NYCU.
 
 [My LinkedIn profile][https://www.linkedin.com/in/vo-tram/]
 
-<img width="3060" height="1600" alt="image" src="https://github.com/user-attachments/assets/42e6aef7-2e3f-4d75-a599-700184b046f5" />
+<img width="576" height="576" alt="image" src="https://github.com/user-attachments/assets/60535c20-0276-4e0d-b5a5-cf67d8fe745e" />
 
