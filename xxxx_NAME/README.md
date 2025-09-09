@@ -23,7 +23,7 @@
 | 16    | 財金碩2      | 311707051  | 余柔柔 | Mabel        |
 | 17    | 企管學程2    | 312712008  | 王惠芯 | Chrissy [[Linkedin]](https://www.linkedin.com/in/chrissywangxiv/)     |
 | 18    | 財金碩1      | 313707055  | 陳怡安 | Yian [[Linkedin]](https://www.linkedin.com/in/yianchen3028/)        |
-| 19    | 企管學程2    | 313712006  | 李昀蓁 | Joyce        |
+| 19    | 企管學程2    | 313712006  | 李昀蓁 | Joyce [[Linkedin]](https://www.linkedin.com/in/yun-chen-li-913044194/)       |
 | 20    | 企管學程2    | 313712017  | 張芸瑄 | Sherry [[LinkedIn]](https://www.linkedin.com/in/sherry-chang8865/)   |
 | 21    | 企管學程2    | 313712020  | 唐艾梅 | Aye Mya [https://www.linkedin.com/in/aye-mya-thandar-8211541aa/]   |
 | 22    | 企管學程1    | 313712024  | 陳寶瓊 | Katie   [https://www.linkedin.com/in/quynh-tran-4b49b514a/]     |
@@ -43,6 +43,7 @@
 | 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 38    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
