@@ -20,7 +20,7 @@
 | 13    | 資財系財金組3 | 112705065  | 吳孟庭 |              |
 | 14    | 百川3        | 112950018  | 蔡承珉 | Senba        |
 | 15    | 資工系1D     | 114550072  | 劉祈賢 | Katherine [[LinkedIn]](https://www.linkedin.com/in/%E5%8A%89%E7%A5%88%E8%B3%A2-undefined-a0474228b/)   |
-| 16    | 財金碩2      | 311707051  | 余柔柔 | Mabel        |
+| 16    | 財金碩2      | 311707051  | 余柔柔 | Mabel [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/)       |
 | 17    | 企管學程2    | 312712008  | 王惠芯 | Chrissy [[Linkedin]](https://www.linkedin.com/in/chrissywangxiv/)     |
 | 18    | 財金碩1      | 313707055  | 陳怡安 | Yian [[Linkedin]](https://www.linkedin.com/in/yianchen3028/)        |
 | 19    | 企管學程2    | 313712006  | 李昀蓁 | Joyce [[Linkedin]](https://www.linkedin.com/in/yun-chen-li-913044194/)       |
@@ -43,6 +43,7 @@
 | 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 38    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
