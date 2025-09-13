@@ -38,11 +38,10 @@
 | 31    | 財金碩1      | 314707026  | 廖承灝 | Bill [[GitHub]](https://github.com/bill011132)        |
 | 32    | 財金碩1      | 314707053  | 黎昭樂 | Lokia    [[LinkedIn]](www.linkedin.com/in/laichiulok)    |
 | 33    | 企管學程1    | 314712007  | 蔡佩珊 |              |
-| 34    | 財金博1      | 414707006  | 陳俊谷 | vick         |
-| 35    | 財金博1      | 414707001  | 林逸青 | Simon        |
-| 36    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
-| 37    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
-| 38    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+| 34    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
+| 35    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
+| 36    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
