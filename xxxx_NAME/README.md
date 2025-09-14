@@ -8,14 +8,14 @@
 | 1     | 資財系資管組4 | 813420     | 陳迅羽 |              |
 | 2     | 資財系財金組4 | 110705053  | 劉妍和 |              |
 | 3     | 資財系資管組4 | 111705004  | 張嘉晏 | Truda [[LinkedIn]](https://www.linkedin.com/in/chia-yen-chang)       |
-| 4     | 資財系資管組4 | 111705008  | 許柏堯 | Frank [LinkedIn](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/)|
+| 4     | 資財系資管組4 | 111705008  | 許柏堯 | Frank [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/)|
 | 5     | 資財系財金組4 | 111705065  | 徐瑩倢 | Joanne       |
 | 6     | 應數系3      | 112652040  | 林羿辰 | Alvin        |
 | 7     | 管科系3      | 112700019  | 黃岳振 |              |
 | 8     | 資財系資管組3 | 112705010  | 許綺文 |              |
 | 9     | 資財系資管組3 | 112705019  | 張紘誌 | Jason        |
 | 10    | 資財系財金組3 | 112705058  | 馮品維 | David        |
-| 11    | 資財系財金組3 | 112705059  | 藍允澤 | Jeremy  [My web page](https://bluelan0106.github.io)     |
+| 11    | 資財系財金組3 | 112705059  | 藍允澤 | Jeremy  [[Webpage]](https://bluelan0106.github.io)     |
 | 12    | 資財系財金組3 | 112705062  | 王冠築 | Candice      |
 | 13    | 資財系財金組3 | 112705065  | 吳孟庭 |              |
 | 14    | 百川3        | 112950018  | 蔡承珉 | Senba        |
@@ -41,6 +41,7 @@
 | 34    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 35    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 36    |              | 114550807  | 馮克登 | Jannis      [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
