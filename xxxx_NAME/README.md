@@ -3,8 +3,8 @@
 
 | Index | 系所         | 學號       | 姓名   | English Name |
 |-------|--------------|------------|--------|--------------|
-|0      |   Prof.      |鄧惠文 |   | [[LinkedIn]](https://www.linkedin.com/in/huei-wen-teng-06a76b7b/)| 
-| 0     |     助教     |            |  陳諾恆  | Jason [[Webpage]](https://github.com/ChanNokHang)|
+|0      |   Prof.      | |  鄧惠文 | [[LinkedIn]](https://www.linkedin.com/in/huei-wen-teng-06a76b7b/)| 
+| 0     |     助教     |            |  陳諾恒  | Jason [[Webpage]](https://github.com/ChanNokHang)|
 | 1     | 資財系資管組4 | 813420     | 陳迅羽 |              |
 | 2     | 資財系財金組4 | 110705053  | 劉妍和 |              |
 | 3     | 資財系資管組4 | 111705004  | 張嘉晏 | Truda [[LinkedIn]](https://www.linkedin.com/in/chia-yen-chang)       |
@@ -41,6 +41,7 @@
 | 34    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 35    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
 | 36    |              | 114550807  | 馮克登 | Jannis  [[GitHub]](https://github.com/ThePhykon) |
+
 
 
 
