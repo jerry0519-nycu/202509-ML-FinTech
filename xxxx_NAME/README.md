@@ -40,7 +40,8 @@
 | 33    | 企管學程1    | 314712007  | 蔡佩珊 |              |
 | 34    | 資財系財金組4 | 111705015  | 張詠翔 | Sam  [[LinkedIn]](https://linkedin.com/in/young-siang-chang-aa7b81350/)        |
 | 35    | 運管碩1      | 314703019  | 劉宇軒 | Jeffrey      |
-| 36    |              | 114550807  | 馮克登 | Jannis  [[GitHub]](https://github.com/ThePhykon) |
+| 36    |              | 114550807  | 馮克登 | Jannis  [[Webpage]](https://github.com/ThePhykon) |
+
 
 
 
