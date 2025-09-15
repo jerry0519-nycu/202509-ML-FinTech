@@ -1,6 +1,17 @@
-# README
+# Machine Learning and FinTech  
 
 *Created by Huei-Wen Teng on 20250901. Latest update 20250915.*
+
+*Bridging AI, Statistics, and Finance through Learning by Doing*  
+
+## About This Course  
+
+This course embraces the rapid development of AI while remaining firmly rooted in the principles of statistical learning. It provides students with both conceptual foundations and hands-on experience in applying machine learning methods to financial technology problems.  
+
+This repository serves pedagogical purposes, offering a collaborative platform where students can share ideas, exchange code, and sharpen their knowledge in Machine Learning and FinTech.  
+
+
+
 
 - [Google Sheet](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=sharing)
 - [Overleaf TEMPLATE](https://www.overleaf.com/read/gxnsffrpqgmj#145baa) 
