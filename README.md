@@ -1,5 +1,7 @@
 # README
 
+*Created by Huei-Wen Teng on 20250901. Latest update 20250915.*
+
 - [Google Sheet](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=sharing)
 - [Overleaf TEMPLATE](https://www.overleaf.com/read/gxnsffrpqgmj#145baa) 
 - [202509 ML&FinTech A](https://www.overleaf.com/read/hfgyqvsyhxyj#985557)
