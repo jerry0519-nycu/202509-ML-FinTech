@@ -1,7 +1,5 @@
 # Machine Learning and FinTech  
 
-*Created by Huei-Wen Teng on 20250901. Latest update 20250915.*
-
 *Bridging AI, Statistics, and Finance through Learning by Doing*  
 
 ## About This Course  
@@ -26,3 +24,4 @@ This repository serves pedagogical purposes, offering a collaborative platform w
 
 
 
+*Created by Huei-Wen Teng on 20250901. Latest update 20250915*
